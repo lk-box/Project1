@@ -14,4 +14,41 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ArrorAttitudeAlgorithm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Drawline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\PNPSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Result.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ZJB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ArrorAttitudeAlgorithm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Drawline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\PNPSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Result.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ZJB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

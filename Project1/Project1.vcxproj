@@ -115,6 +115,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ArrorAttitudeAlgorithm.h" />
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Drawline.h" />
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\PNPSolver.h" />
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Result.h" />
+    <ClInclude Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ZJB.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ArrorAttitudeAlgorithm.cpp" />
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Drawline.cpp" />
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\main.cpp" />
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\PNPSolver.cpp" />
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\Result.cpp" />
+    <ClCompile Include="D:\RM\Opencv\lk\装甲板 - 副本\Project1\ZJB.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
